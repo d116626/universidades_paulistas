@@ -19,4 +19,8 @@
 - [Anuarios](https://ape.unesp.br/anuario/)
 
 
+#### Repasses às Universidades
+- [Fazenda SP](https://portal.fazenda.sp.gov.br/acessoinformacao/Paginas/Repasses-para-Universidades.aspx)
+
+
 
