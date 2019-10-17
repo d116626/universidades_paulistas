@@ -12,7 +12,6 @@
 - [Anuarios](https://www.aeplan.unicamp.br/anuario/anuario.php)
 
 #### USP
-- [Orçamento](http://www.usp.br/codage/?q=node/35)
 - [Anuarios](https://uspdigital.usp.br/anuario/AnuarioControle)
 
 #### UNESP
