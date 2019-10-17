@@ -2,8 +2,8 @@
 ----
 
 ## Itens Necessários para análise
--  orçamento total obrigatório e discricionário
--  alunos matriculados, vagas no vestibular e alunos formandos, tudo aberto por curso, discriminado o número de anos previsto para conclusão
+-  Orçamento total obrigatório e discricionário
+-  Alunos matriculados, vagas no vestibular e alunos formandos, tudo aberto por curso, discriminado o número de anos previsto para conclusão
 
 ----
 ## Dados
